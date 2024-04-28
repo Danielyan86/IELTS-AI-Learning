@@ -1,0 +1,1 @@
+some people think that increasing business and cultural contacts world wide have positive influences on development; others think that they have negative  effects on national identities.
