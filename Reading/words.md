@@ -227,3 +227,13 @@ tannery
 文中意思: 黄褐色，晒黑
 造句: She got a nice tan after her vacation in the Caribbean.
 (她在加勒比度假后，皮肤晒得黄褐色，看起来很好。)
+
+## ferocity
+
+📖 词汇：Ferocity♨️ 词源：The term "ferocity" has its roots in the late 15th century, from Old French 'ferocite', which was influenced by the Latin term 'ferox', meaning wild or untamed.
+词根词缀拆解: 'Ferocity' includes the root 'fero-' which comes from Latin, tied to being wild or fierce, and '-city' which is a common suffix used to form abstract nouns.
+同义词，近义词: Viciousness, Savagery, Brutality
+💡 记忆方法：One common method of recollection could be linking 'ferocity' with 'fierce' and imagining a wild animal in attack mode showcasing its ferocity.
+文中意思: 极端的猛烈，野蛮
+造句: The ferocity of the storm caught everyone by surprise.
+(暴风雨的猛烈程度让每个人都措手不及。)
