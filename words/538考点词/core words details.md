@@ -10,7 +10,7 @@
 - [imitate, mimic](#imitate-mimic)
 - [limitation , restriction](#limitation--restriction)
 - [hinder, impede, prevent, deter](#hinder-impede-prevent-deter)
-- [demanding, troublesome 区别](#demanding-troublesome-区别)
+- [demanding, troublesome](#demanding-troublesome)
 - [Conscious 和 aware](#conscious-和-aware)
 - [imperative, compelling, necessary](#imperative-compelling-necessary)
 - [cecrete, discharge, exude](#cecrete-discharge-exude)
@@ -266,7 +266,7 @@ Deter:
 因此，"hinder" 和 "impede" 强调对某种行动或进程的阻碍或干扰，"prevent" 强调通过采取措施避免某种不利事件的发生，而 "deter" 则强调通过威慑或恐惧来阻止某种行为的发生。
 The government has initiated some actions to deter further terrorist activities.
 
-## demanding, troublesome 区别
+## demanding, troublesome
 
 "Demanding" 和 "troublesome" 都是形容词，但它们在含义和用法上有所不同：
 

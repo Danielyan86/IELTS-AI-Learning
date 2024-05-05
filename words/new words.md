@@ -137,3 +137,32 @@ For this recipe, while fresh herbs are preferred, they are dispensable, and drie
 文中意思: 分诊，分类，优先排序
 造句: In a medical emergency, the nurses perform triage to determine the order in which patients will receive treatment based on the severity of their conditions.
 (在医疗紧急情况下，护士会进行分诊，根据患者病情的严重程度确定治疗的先后顺序。)
+
+## ad hoc
+
+词汇：Ad-hoc♨️ 词源：'Ad-hoc' is a Latin phrase that translates to "for this" or "for this specific purpose." It has been adopted into English as a term to describe something that is done or created for a particular situation or purpose, without prior planning or preparation.
+词根词缀拆解: 'Ad' means "to" or "towards" in Latin, while 'hoc' means "this." Together, they create the meaning of "for this" or "for this specific purpose."
+同义词，近义词: Impromptu, Temporary, Makeshift, Expedient
+💡 记忆方法：One way to remember 'ad-hoc' is to associate it with spontaneous or on-the-spot actions that are done to address a specific need or situation.
+文中意思: 临时性的，即席的，特定目的的
+造句: The team had to organize an ad-hoc meeting to address the urgent issue that arose unexpectedly.
+(团队不得不组织一次临时会议，以解决突然出现的紧急问题。)
+
+## squander
+
+## frivolous
+
+## catharsis
+
+## waiver
+
+## exempt
+
+
+My experience as a senior engineer allowed me to understand real-world applications of these concepts, enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to my future studies on this program
+
+My experience as a senior engineer has allowed me to understand the real-world applications of these concepts, thereby enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to future studies in this program.
+
+After completing my degree in Information Technology, I aim to work as a software engineer in a tech company, with a special interest in AI and machine learning projects. In the future, I see myself in a leadership role and plan to stay updated with ongoing tech advancements.
+
+This Information Technology program is pivotal for my long-term goals. It's equipping me with technical skills that are vital for my initial goal of being a successful software engineer. In the long run, these skills and the understanding I gain will be essential as I aim to transition into strategic and leadership roles within the tech industry, where I can influence technological advancements and innovations. Essentially, this program is a key building block for my future career aspirations
