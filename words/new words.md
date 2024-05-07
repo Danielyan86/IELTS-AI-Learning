@@ -158,7 +158,6 @@ For this recipe, while fresh herbs are preferred, they are dispensable, and drie
 
 ## exempt
 
-
 My experience as a senior engineer allowed me to understand real-world applications of these concepts, enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to my future studies on this program
 
 My experience as a senior engineer has allowed me to understand the real-world applications of these concepts, thereby enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to future studies in this program.
@@ -166,3 +165,67 @@ My experience as a senior engineer has allowed me to understand the real-world a
 After completing my degree in Information Technology, I aim to work as a software engineer in a tech company, with a special interest in AI and machine learning projects. In the future, I see myself in a leadership role and plan to stay updated with ongoing tech advancements.
 
 This Information Technology program is pivotal for my long-term goals. It's equipping me with technical skills that are vital for my initial goal of being a successful software engineer. In the long run, these skills and the understanding I gain will be essential as I aim to transition into strategic and leadership roles within the tech industry, where I can influence technological advancements and innovations. Essentially, this program is a key building block for my future career aspirations
+
+## scorn, despise, contempt
+
+"Scorn," "despise," 和 "contempt" 都是表示对某人或某物的蔑视或轻视的词语，但它们在用法和含义上略有不同：
+
+Scorn（轻蔑）是一种强烈的不满或鄙视的情绪，通常表现为对某人或某物的嘲笑、讥讽或忽视。这种情绪可能是由于对对方的行为、观点或品质感到不满或不屑。例如：“He looked at her with scorn, unable to believe her audacity.”
+Despise（鄙视）表示对某人或某物的强烈不喜欢或鄙视，可能是由于对方的品质、行为或性格特征而产生的。这个词强调的是对某人或某物的深刻厌恶或轻视。例如：“She despised him for his dishonesty and lack of integrity.”
+Contempt（蔑视）是一种更正式的词语，指对某人或某物的极度轻视或鄙视，通常表现为对对方的完全忽视或贬低。这种情绪可能是由于对方的行为、态度或地位而产生的。例如：“He regarded her with contempt, seeing her as beneath his notice.”
+总的来说，这三个词都表达了对某人或某物的不满或轻视，但是它们在程度和语气上略有不同，而且在不同的语境中可能更适合使用其中的某一个。
+
+## assimilate, affiliate
+
+"Assimilate" 和 "affiliate" 都涉及到与某种团体、组织或文化相关联，但它们在用法和含义上有一些不同：
+
+1. **Assimilate**（同化）指的是个体或群体逐渐吸收、接受并融入到新的文化、群体或环境中。这个词通常用来描述一个人或一群人逐渐融入到不同的文化、社会或群体中，并采用其价值观、习俗和行为模式。例如：“After living in the country for several years, he began to assimilate into the local community.”
+
+2. **Affiliate**（加入、附属）指的是将个体或组织与另一个大的组织或团体相关联或加入。这个词通常用来描述加入组织、团体、机构或公司等。例如：“The small company decided to affiliate with a larger corporation to expand its reach.”
+
+总的来说，"assimilate" 更强调个体或群体的融合和适应，而 "affiliate" 更强调加入或与某个团体或组织相关联。
+
+## exert, utilize
+
+当使用“exert”和“utilize”时，它们表达的意义和用法有所不同：
+
+1. **Exert**（施加）：
+
+   - **意义**：指对力量、能力、影响等的有意识的施加或运用。
+   - **用法**：通常与实际的力量、能力、压力或影响相关联，强调施加这些因素以产生特定效果。
+   - **例句**：“He exerted all his strength to lift the heavy box.”
+
+2. **Utilize**（利用）：
+   - **意义**：指利用资源、技能、机会等来完成某项任务或达到某个目的。
+   - **用法**：通常与资源、技能、机会等相关联，强调将这些因素有效地应用于特定目的。
+   - **例句**：“We need to utilize our resources more efficiently to achieve our goals.”
+
+总的来说，“exert”强调施加或运用实际的力量、影响等，而“utilize”强调利用资源、技能等来实现某个目标。
+
+## siege
+
+📖 词汇：siege
+♨️ 词源：根据 Merriam-Webster 的解释，siege 这个名词可以指敌军包围城镇或建筑物，切断重要供应，以迫使其中的人投降。它也可以指警察或其他部队包围建筑物，切断供应，以迫使武装人员投降。此外，siege 还可以指一段长时间的不幸。
+词根词缀拆解：无
+近义词：blockade, encirclement, investment, beleaguerment
+💡 记忆方法：想象被敌军包围的城镇或建筑物，无法得到必要的供应。
+文中意思：根据上下文，siege 作为名词可以指敌军包围城镇或建筑物以迫使其投降，也可以指警察或其他部队包围建筑物以迫使武装人员投降。它还可以指一段长时间的不幸。
+造句：Verdun had withstood a siege of ten weeks.（凡尔登经历了长达十周的围困。）
+I've been having a siege of headaches lately.（我最近一直头痛不止。）
+
+## envisage
+
+"Envisage" 和 "imagine" 都涉及到想象或构想某种情境、情感或结果，但它们在用法和含义上略有不同：
+
+1. **Envisage**（设想）：
+
+   - **含义**：指认真考虑或设想某种可能性，通常基于事实、逻辑或计划。
+   - **用法**：通常用于描述对未来可能发生的事情或计划中的细节进行思考或构想。这个词强调的是对某种情况或结果的认真考虑或计划。
+   - **例句**：“The architect envisaged a modern design for the new building.”
+
+2. **Imagine**（想象）：
+   - **含义**：指在心智中构想或形成图像，通常是基于想象力、创造力或个人愿望。
+   - **用法**：通常用于描述对不真实、不现实或虚构的情境、场景或情感进行思考或想象。这个词强调的是对一种想象或梦想的产生。
+   - **例句**：“Close your eyes and imagine yourself on a beautiful beach.”
+
+总的来说，“envisage” 更强调对可能发生的情况进行理性、合理的思考和构想，而“imagine” 更强调对虚构或想象的产生。

@@ -122,7 +122,7 @@ Some believe that globalization benefits various fields in their countries, such
 My view is that globalization brings more good than harm.
 From my perspective, globalization brings about more benefits than harms
 My view is that globalization is not only boost the economy of the country, but also has positive effects for promoting local culture.
-My view is that globalization is an inevitable trend that can benefit a range aspects for a country. Although it brings some challenges, we need to face it positively and tailor solutions to mitigate them rather than resisting it
+My view is that globalization is an inevitable trend that can benefit **a range aspects** for a country. Although it brings some challenges, we need to face it positively and tailor solutions to mitigate them rather than resisting it
 
 - 虽然它带来了一些挑战，我们应该积极面对
 - 量体裁衣制定解决方案
