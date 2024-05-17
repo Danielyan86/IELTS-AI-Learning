@@ -76,3 +76,31 @@ The new CEO acknowledged her predecessor's achievements and conceded the challen
 ## concession
 
 After much negotiation, both parties finally reached a concession, agreeing to compromise on certain terms in order to move forward with the deal.
+
+## Cunning, sly, shrewd
+
+这些词都描述了一种机智或狡猾的态度，但它们之间有些微的区别：
+
+1. **Cunning**（狡猾的）：
+
+   - **含义**：指具有欺骗性或诡计多端的智慧或技巧，通常带有负面的意味。
+   - **例句**：He used cunning tactics to win the game.
+
+2. **Sly**（狡猾的）：
+
+   - **含义**：指秘密、私下或诡秘地行事，常常是出于欺骗或狡诈的目的。
+   - **例句**：The sly fox quietly approached the henhouse.
+
+3. **Shrewd**（精明的）：
+   - **含义**：指具有敏锐、机智和判断力，能够理解和利用情况或机会。
+   - **例句**：She made a shrewd investment in the stock market.
+
+总的来说，"cunning" 和 "sly" 更强调欺骗和诡计的性质，而 "shrewd" 更强调理智和判断力的性质。
+
+## vote, veto
+
+In the political process, lawmakers have the power to vote on proposed legislation, while the executive branch may wield a veto to reject bills passed by the legislative body.
+
+## superfluous
+
+The inclusion of unnecessary details in the report made it longer than necessary, adding superfluous information that distracted from the main points and diluted the overall message.

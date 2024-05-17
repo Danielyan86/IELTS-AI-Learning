@@ -150,21 +150,60 @@ For this recipe, while fresh herbs are preferred, they are dispensable, and drie
 
 ## squander
 
+♨️ 词源: The word "squander" is a verb that means to spend extravagantly or foolishly, dissipate, or waste something. It implies using resources, such as money or time, in a bad or foolish way, without gaining any significant benefit or value.
+
+同义词，近义词: waste, spend extravagantly, dissipate, lavish, misspend, throw away, run through
+
+💡 记忆策略: To remember the meaning of "squander," think of it as the act of spending or using something valuable, such as money or time, in an extravagant or foolish manner. Visualize someone wasting their resources without any beneficial outcome.
+
+文中意思: "Squander" refers to the action of spending or using something valuable, such as money or time, in an extravagant or foolish manner without gaining any significant benefit or value from it.
+
 ## frivolous
+
+📖 单词：frivolous
+♨️ 词源：The word "frivolous" has its origins in the Latin word "frivolus," which means "silly" or "trivial."
+💡 记忆策略：To remember the meaning of "frivolous," think of something being "frivolous" as being silly, lacking seriousness or sense.
+
+📰 文中意思：Frivolous refers to something characterized by a lack of seriousness or sense. It describes things or actions that are silly, trivial, or lacking any serious purpose.
+造句：His frivolous behavior at work led to his dismissal.
 
 ## catharsis
 
+♨️ 词源: The word "catharsis" originated from the Ancient Greek word "κάθαρσις" (katharsis), which means "purification" or "cleansing."
+
+➡️ 定义: "Catharsis" has multiple meanings, primarily related to emotional release and purification. It can refer to:
+
+1. In literature and art: Catharsis is the purification or purgation of the emotions, such as pity and fear, primarily through art. It involves experiencing strong emotions in response to a work of art, which leads to a sense of emotional release and spiritual renewal.
+
+2. In psychology: Catharsis refers to the process of releasing strong or pent-up emotions, often through various therapeutic techniques or activities. Successful catharsis is accompanied by cognitive insight and positive change.
+
+💡 记忆策略: To remember the meaning of "catharsis," think of it as a process of emotional release and purification. Visualize an individual experiencing a powerful emotional release, feeling a sense of cleansing and renewal.
+
+文中意思: "Catharsis" can refer to the purification or purgation of the emotions, primarily through art, where experiencing strong emotions leads to a sense of release and renewal. It can also refer to the process of releasing strong or pent-up emotions, often through therapeutic techniques, resulting in positive psychological change.
+
 ## waiver
+
+📖 单词: waiver
+
+♨️ 词源: The word "waiver" refers to the act of intentionally relinquishing or abandoning a known right, claim, or privilege. It can also refer to the legal instrument or document that evidences such an act.
+
+同义词，近义词: **relinquishment**, abandonment, surrender, **renunciation**, disclaimer
+
+💡 记忆策略: To remember the meaning of "waiver," think of it as willingly giving up or abandoning a right or claim. Visualize someone signing a document, symbolizing their intentional relinquishment of a privilege or right.
+
+文中意思: "Waiver" refers to the act of intentionally relinquishing or abandoning a known right, claim, or privilege. It can also refer to the legal instrument or document that evidences such an act.
+
+造句：She signed a waiver, **forfeiting** her right to pursue legal action against the company.
 
 ## exempt
 
-My experience as a senior engineer allowed me to understand real-world applications of these concepts, enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to my future studies on this program
+📖 单词：exempt
+♨️ 词源：The word "exempt" comes from the Latin word "eximere," which means "take out" or "remove."
+💡 记忆策略：To remember the meaning of "exempt," you can think of it as being "exited" or "taken out" from a certain obligation or liability.
+文中意思：exempt means to be freed from or not subject to an obligation or liability.
+造句：She is exempt from paying taxes due to her low income.
 
-My experience as a senior engineer has allowed me to understand the real-world applications of these concepts, thereby enhancing my practical understanding and teamwork skills. These experiences will significantly shape my approach to future studies in this program.
-
-After completing my degree in Information Technology, I aim to work as a software engineer in a tech company, with a special interest in AI and machine learning projects. In the future, I see myself in a leadership role and plan to stay updated with ongoing tech advancements.
-
-This Information Technology program is pivotal for my long-term goals. It's equipping me with technical skills that are vital for my initial goal of being a successful software engineer. In the long run, these skills and the understanding I gain will be essential as I aim to transition into strategic and leadership roles within the tech industry, where I can influence technological advancements and innovations. Essentially, this program is a key building block for my future career aspirations
+![Related Image](image.jpg)
 
 ## scorn, despise, contempt
 
@@ -229,3 +268,68 @@ I've been having a siege of headaches lately.（我最近一直头痛不止。�
    - **例句**：“Close your eyes and imagine yourself on a beautiful beach.”
 
 总的来说，“envisage” 更强调对可能发生的情况进行理性、合理的思考和构想，而“imagine” 更强调对虚构或想象的产生。
+
+## zeal
+
+Sure, "zeal" is a term that expresses eagerness and ardent interest in pursuit of something. Here are some synonyms for "zeal":
+
+- Enthusiasm
+- Passion
+- Ardor
+  Fervor
+  Eagerness
+  Devotion
+
+So while both words describe a strong, passionate interest or enthusiasm, "ardor" may carry more of a connotation of intense, burning passion, while "zeal" more often suggests an eager pursuit or enthusiasm for a specific goal or cause.
+
+## "petty"、"trivia"、"trifle" 和 "chop"
+
+以下是 "petty"、"trivia"、"trifle" 和 "chop" 的解释和一些同义词：
+
+1. **Petty**（琐碎的）：
+
+   - **解释**：指不重要或微不足道的事物或问题，通常缺乏重大影响或价值。
+   - **同义词**：insignificant, trivial, minor, unimportant
+
+2. **Trivia**（琐事）：
+
+   - **解释**：指不重要或无关紧要的细节或事实，通常与一般感兴趣的主题或话题无关。
+   - **同义词**：trifles, minutiae, details
+
+3. **Trifle**（琐事）：
+
+   - **解释**：指不重要或无关紧要的事物或问题，通常与日常生活中的小事或琐事相关。
+   - **同义词**：trivia, triviality, insignificance, bagatelle
+
+4. **Chop**（切，砍）：
+   - **解释**：作为动词，指用刀或其他工具切割或砍伐物体；作为名词，指食物的一块或一片。
+   - **同义词**：cut, slice, chop up, hack (verb); piece, portion, chunk (noun)
+
+这些词语都描述了一些轻微或不重要的事物、细节或行为。在特定上下文中，选择正确的词语可以更准确地表达所要表达的意思。
+
+## tenure
+
+📖 词汇: tenure
+
+♨️ 词源: The word "tenure" originates from the Latin word "tenere" which means "to hold". It was first recorded in English in the late 15th century.
+
+词根词缀拆解:
+
+- "ten-" 具有 "hold, keep" 的意思
+- "-ure" 表示 "state, condition, or act of"
+
+同义词，近义词: tenancy, occupancy, holding, occupation, residence, possession, title, ownership, proprietorship, incumbency, term of office, term, period of/in office, time, time in office
+
+💡 记忆方法: To remember the meaning of "tenure", think of it as the conditions under which something is held or occupied. You can also associate it with the word "tenancy" which refers to the act of holding or occupying a property.
+
+文中意思: "Tenure" can have multiple meanings:
+
+1. The conditions under which land or buildings are held or occupied.
+2. The holding of an office.
+3. Giving someone a permanent post, especially as a teacher or professor.
+
+造句：- His tenure of the premiership would be threatened. (这里表示担任职位的时期)
+
+- I had recently been tenured and then promoted to full professor. (这里表示被授予终身教职)
+
+## color palette
