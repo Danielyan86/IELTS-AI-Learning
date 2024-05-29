@@ -1,3 +1,43 @@
+- [plagiarize](#plagiarize)
+- [conform](#conform)
+- [condemn](#condemn)
+- [resentment](#resentment)
+- [perpetrate](#perpetrate)
+- ["Convene" 的一些同义词包括：](#convene-的一些同义词包括)
+- [plausible 同义词](#plausible-同义词)
+- [depletion](#depletion)
+- [Tentative](#tentative)
+- [Procurement](#procurement)
+- [trounce](#trounce)
+- [formidable](#formidable)
+- [hostile](#hostile)
+- [dispensable](#dispensable)
+- [Triage](#triage)
+- [ad hoc](#ad-hoc)
+- [squander](#squander)
+- [frivolous](#frivolous)
+- [catharsis](#catharsis)
+- [waiver](#waiver)
+- [exempt](#exempt)
+- [scorn, despise, contempt](#scorn-despise-contempt)
+- [assimilate, affiliate](#assimilate-affiliate)
+- [exert, utilize](#exert-utilize)
+- [siege](#siege)
+- [envisage](#envisage)
+- [zeal](#zeal)
+- ["petty"、"trivia"、"trifle" 和 "chop"](#pettytriviatrifle-和-chop)
+- [tenure](#tenure)
+- [color palette](#color-palette)
+- [solid, solidity](#solid-solidity)
+- [Nautical](#nautical)
+  - [词源](#词源)
+  - [用法](#用法)
+  - [相关同义词和近义词](#相关同义词和近义词)
+- [imminent](#imminent)
+- [Anew](#anew)
+- [dogmas](#dogmas)
+- [Disenthrall](#disenthrall)
+
 ## plagiarize
 
 Mnemonic: You can remember 'plagiarize' as 'play' + 'a' + 'rise'. It's like playing someone else's content/work for a rise in one's own popularity or credibility.
@@ -116,7 +156,7 @@ Overpowering：压倒性的，指具有强大或不可抗拒的影响力或效�
 Impenetrable：坚不可摧的，指具有坚固或难以逾越的防御或障碍。
 这些同义词都可以用来描述某种强大、令人敬畏或不可轻视的特征或情况。
 
-- Synonyms, Near Synonyms: Intimidating, daunting, impressive.
+- Synonyms, Near Synonyms: Intimidating, ing, impressive.
 - Antonyms: Unimpressive, insignificant, comforting.
 - Mnemonic: Think of "formidable" as "formid-able." Imagine something that is able to cause fear or admiration due to its formid (formidable) size, strength, or power.
 
@@ -271,7 +311,7 @@ I've been having a siege of headaches lately.（我最近一直头痛不止。�
 
 ## zeal
 
-Sure, "zeal" is a term that expresses eagerness and ardent interest in pursuit of something. Here are some synonyms for "zeal":
+Sure, "ze foal" is a term that expresses eagerness and ardent interest in pursuit of something. Here are some synonyms for "zeal":
 
 - Enthusiasm
 - Passion
@@ -333,3 +373,121 @@ So while both words describe a strong, passionate interest or enthusiasm, "ardor
 - I had recently been tenured and then promoted to full professor. (这里表示被授予终身教职)
 
 ## color palette
+
+## solid, solidity
+
+"Solid" 和 "solidity" 都与坚固、坚实相关，但它们在词性和用法上有所不同：
+
+1. **Solid**（形容词和名词）：
+
+   - **形容词**：
+     - **含义**：指物质具有固定的形状和体积，不容易改变形态；也可以指坚固、可靠或一致的。
+     - **例句**：
+       - "The table is made of solid wood."（这张桌子是由实木制成的。）
+       - "She gave a solid performance in the play."（她在剧中表现出色。）
+   - **名词**：
+     - **含义**：指一种物质状态，具有固定形状和体积的物质。
+     - **例句**：
+       - "Ice is a solid at room temperature."（冰在室温下是固体。）
+
+2. **Solidity**（名词）：
+   - **含义**：指坚固、坚实的状态或性质；也可以指可靠性、稳固性。
+   - **例句**：
+     - "The solidity of the structure ensures its durability."（结构的坚固性确保了它的耐久性。）
+     - "Her arguments were praised for their clarity and solidity."（她的论点因其清晰和坚实而受到赞赏。）
+
+总结：
+
+- **Solid** 可以用作形容词，描述物质的坚固性、可靠性或物理状态，也可以用作名词，指固体状态的物质。
+- **Solidity** 是名词，指坚固、稳固的特性或状态。
+
+## Nautical
+
+"**Nautical**" 是一个形容词，主要与航海或海洋相关的事物有关。它的词源和用法如下：
+
+### 词源
+
+- **拉丁语词源**：来自拉丁语 "nauticus"，意为 "of or pertaining to ships or sailors"（与船只或水手有关的）。
+- **希腊语词源**：进一步追溯到希腊语 "nautikos"，源自 "nautes"（水手），"naus"（船）。
+
+### 用法
+
+"Nautical" 用于描述与船舶、航海、海洋等相关的事物。以下是一些常见的用法和例句：
+
+- **Nautical terms**（航海术语）：指航海中的专门术语。
+
+  - 例句："He learned many nautical terms during his training."（在训练期间，他学到了许多航海术语。）
+
+- **Nautical charts**（航海图）：用于导航的地图，特别是用于海上航行的地图。
+
+  - 例句："The captain consulted the nautical charts to plot the ship's course."（船长查看了航海图以确定船只的航线。）
+
+- **Nautical miles**（海里）：一种距离单位，常用于航海和航空。
+
+  - 例句："The island is located 50 nautical miles from the coast."（岛屿位于离海岸 50 海里的地方。）
+
+- **Nautical themes**（航海主题）：常见于装饰、时尚或文学中，涉及航海或海洋的元素。
+  - 例句："The restaurant had a nautical theme, with anchors and ropes as decorations."（这家餐厅有一个航海主题，装饰有锚和绳索。）
+
+### 相关同义词和近义词
+
+- **Maritime**：通常指海上的、海事的，与海洋相关的，特别是在商业和法律的背景下。
+
+  - 例句："He works in the maritime industry."（他在海运行业工作。）
+
+- **Naval**：指海军的，与军舰或军事海上活动相关的。
+  - 例句："The naval fleet was deployed to the area."（海军舰队被部署到该地区。）
+
+总的来说，"nautical" 主要用于描述与航海、船只和海洋相关的事物。
+
+## imminent
+
+- 📖 Word: Imminent
+- ♨️ Origin: The word 'imminent' has its history around the mid-15th century, described as "now, present, of the moment, current," evolving from the Old French 'instant' meaning "near, imminent, immediate, at hand; urgent." It ultimately derives from the Latin 'imminēns', the present participle of 'imminēre', which combines 'in-' (in, upon) with '-minēre' (to jut, threaten).
+  [_Etymology of imminent by etymonline_](https://www.etymonline.com/word/imminent)
+- 💡 Memory Strategy: To remember 'imminent', picture something **jutting** in or leaning over you closely, creating a sense of immediate presence or threat, signifying that it is about to occur at any moment.
+- 📰 Meaning in text: As an adjective, 'imminent' refers to something that is about to happen very soon, especially something undesirable or dangerous.
+- Synonyms: mpending
+  Approaching
+  Near
+  Forthcoming
+  **Looming**
+- # Sentence: With the dark clouds gathering, a thunderstorm seemed imminent.
+
+If you need more information about 'imminent' or any other word, please don't hesitate to ask!
+
+## Anew
+
+- 📖 Word: Anew
+- ♨️ Origin: The word 'anew' comes from the Middle English 'anewe', from Old English phrase 'on newe', which means "in a new way, again." This breaks down into 'on' (in) + 'newe' (the old English way to say new), resulting from Old English 'neowe' or 'niwe', meaning "made or established for the first time, fresh".
+  [_Etymology of 'anew' by etymonline_](https://www.etymonline.com/word/anew)
+- 💡 Memory Strategy: To remember 'anew', you might think of hitting the restart button on an electronic device. This action leads to the device working again but from a fresh state, or starting 'anew'.
+- 📰 Meaning in text: The adverb 'anew' means starting again; in a new or different and typically more positive way.
+- Synonyms: Afresh, once more, again, from scratch
+- # Sentence: After the failure, she decided to approach the project anew with fresh ideas.
+
+If you need any more examples or assistance with vocabulary, just let me know!
+
+## dogmas
+
+- 📖 Word: Dogmas
+- ♨️ Origin: The word 'dogma' was adopted into English in the 17th century from Latin 'dogma', which itself was derived from the Ancient Greek 'δόγμα' (dogma), carrying the meanings 'opinion', 'belief'. The philosophical sense in Greek was 'an opinion or belief' and in the Church Latin it evolved to mean 'a decree, authoritative doctrine'.
+  [_Etymology of 'dogma' from Wikipedia_](https://en.wikipedia.org/wiki/Dogma)
+- 💡 Memory Strategy: You could remember 'dogma' by associating it with doctrine or a set of beliefs that are laid down by an authority as incontrovertibly true – much like a decree or an official order that one must follow without questioning.
+- 📰 Meaning in text: The noun 'dogma' refers to a principle or set of principles laid down by an authority as incontrovertibly true, often used in the context of religion or ideology.
+- Synonyms: Doctrine, Creed, Tenet, Belief
+- # Sentence: The company's founder insisted that his economic dogmas be adhered to, even after new evidence suggested alternative approaches.
+
+Need further explanation or examples? Feel free to reach out.
+
+## Disenthrall
+
+- 📖 Word: Disenthrall
+- ♨️ Origin: The term 'disenthrall' originates from the 1640s, and it combines the prefix 'dis-', indicating negation or reversal, with 'enthrall', meaning to captivate or enslave. 'Enthrall' comes from 'thrall', an old term for a servant or slave.
+  [_Etymology of 'disenthrall' by etymonline_](https://www.etymonline.com/word/disenthrall)
+- 💡 Memory Strategy: Think of 'enthrall' as being spellbound or chained to something—so 'disenthrall' is the process of breaking free from these chains, or being released from a spell.
+- 📰 Meaning in text: The verb 'disenthrall' means to liberate from bondage, servitude, or any form of mental or physical subjection; to set free from a controlling force or influence.
+- Synonyms: Liberate, Emancipate, Set free, Release
+- # Sentence: The aim of the educational program is to disenthrall young minds from the shackles of outdated notions and encourage critical thinking.
+
+If there is more that you would like to explore or clarify, please don't hesitate to ask!
