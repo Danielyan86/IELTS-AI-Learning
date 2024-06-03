@@ -8,6 +8,8 @@
 
 3. **Destructive**（破坏性的）描述的是有能力或倾向于造成破坏的事物或行为。这个词可以用来描述实际的物理损坏或对某种系统或局面的负面影响。例如：“The hurricane caused destructive winds and flooding.”
 
+That whenever any form of government becomes **destructive** of these ends, it is the right of the people to alter or to abolish it, and to institute new government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their safety and happiness.
+
 ## hurtle, hurl
 
 这两个词汇都涉及到“投掷”的概念，但在用法和含义上略有不同：

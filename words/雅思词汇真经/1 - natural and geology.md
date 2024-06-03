@@ -14,7 +14,7 @@ During the **monsoon** season, the coastal town experienced powerful **gales**, 
 
 The **seismic** activity in the region triggered a massive **avalanche**, burying the mountain pass under tons of snow and **debris**.
 
-The earthquake triggered seismic activity in the region, causing a massive avalanche to **cascade** down the mountainside, adding to the devastation already wrought by the tremors.
+The earthquake triggered seismic activity in the region, causing a massive avalanche to **cascade** down the mountainside, adding to the devastation already wrought by the **tremors**.
 
 As the **glacier** slowly melted, it transformed into a vast **swamp**, teeming with life and mystery.
 
