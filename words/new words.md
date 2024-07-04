@@ -491,3 +491,14 @@ Need further explanation or examples? Feel free to reach out.
 - # Sentence: The aim of the educational program is to disenthrall young minds from the shackles of outdated notions and encourage critical thinking.
 
 If there is more that you would like to explore or clarify, please don't hesitate to ask!
+
+Sure, let's delve into the word "testimonial."
+
+=====
+
+- 📖 单词： testimonial
+- ♨️ 词源： The word "testimonial" originates from the Latin word "testimonium," which means "evidence" or "witness." It entered the English language in the late 15th century.
+- 💡 记忆策略： To remember "testimonial," think of "testimony," which is a statement given as evidence. A testimonial is similar but often used in the context of praising someone's abilities or character.
+- 📰 文中意思： 推荐信，证明信
+- 同义词： endorsement, recommendation, commendation, tribute
+- # 造句： The company received glowing testimonials from satisfied customers.
